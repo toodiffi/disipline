@@ -1,0 +1,26 @@
+.body {
+  font-family: PingFang SC;
+}
+div {
+  box-sizing: border-box;
+}
+view {
+  box-sizing: border-box;
+}
+
+$gray1: #7B6F72;
+$gray2: #ADA4A5;
+$border-color: #F7F8F8;
+$black-color: #1D1617;
+$white: #fff;
+$red1: #C58BF2;
+$red2: #EEA4CE;
+$blue1:#9DCEFF;
+$blue2: #92A3FD;
+
+
+@mixin center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,15 @@
+{
+  "pages": {
+    "home": {
+      "path": "home/index"
+    },
+    "result": {
+      "path": "record/index"
+    }
+  },
+  "pages2": {
+    "add": {
+      "path": "add/index"
+    }
+  }
+}

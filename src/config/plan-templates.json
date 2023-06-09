@@ -1,0 +1,2297 @@
+[
+  {
+    "name": "杠铃一周3练健身（初级）",
+    "planOfAllDays": [
+      {
+        "week": 1,
+        "actions": [
+          {
+            "type": 1,
+            "name": "下斜杠铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 下胸肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "腹肌撕裂者X1",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "仰姿负重反屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧杠铃屈臂伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿杠铃颈后臂屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          }
+        ]
+      },
+      { "week": 2, "actions": [] },
+      {
+        "week": 3,
+        "actions": [
+          {
+            "type": 1,
+            "name": "杠铃耸肩",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 斜方肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "垂直举腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "俯卧两头起",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 竖脊肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃杆左右转体",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃臂弯举（直杆）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿杠铃臂弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          }
+        ]
+      },
+      { "week": 4, "actions": [] },
+      {
+        "week": 5,
+        "actions": [
+          {
+            "type": 1,
+            "name": "杠铃立正划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "杠铃前平举（直杆）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "腹肌撕裂者X1",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃站姿提踵",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 小腿肌肉"
+          },
+          {
+            "type": 1,
+            "name": "杠铃坐姿提踵",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 小腿肌肉"
+          },
+          {
+            "type": 1,
+            "name": "杠铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃弓步蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          }
+        ]
+      },
+      { "week": 6, "actions": [] },
+      { "week": 7, "actions": [] }
+    ],
+    "completeStatus": []
+  },
+  {
+    "name": "杠铃一周3练健身（新手）",
+    "planOfAllDays": [
+      {
+        "week": 1,
+        "actions": [
+          {
+            "type": 1,
+            "name": "杠铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "上斜杠铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 上胸肌"
+          },
+          {
+            "type": 1,
+            "name": "卷腹",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃杆左右转体",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "凳上反屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿杠铃颈后臂屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          }
+        ]
+      },
+      { "week": 2, "actions": [] },
+      {
+        "week": 3,
+        "actions": [
+          {
+            "type": 1,
+            "name": "杠铃耸肩",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 斜方肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "低位杠铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "垂直举腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃杆左右转体",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃臂弯举（直杆）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿杠铃臂弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          }
+        ]
+      },
+      { "week": 4, "actions": [] },
+      {
+        "week": 5,
+        "actions": [
+          {
+            "type": 1,
+            "name": "杠铃立正划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "杠铃前平举（直杆）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "卷腹",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃站姿提踵",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 小腿肌肉"
+          },
+          {
+            "type": 1,
+            "name": "杠铃坐姿提踵",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 小腿肌肉"
+          },
+          {
+            "type": 1,
+            "name": "杠铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃弓步蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          }
+        ]
+      },
+      { "week": 6, "actions": [] },
+      { "week": 7, "actions": [] }
+    ],
+    "completeStatus": []
+  },
+  {
+    "name": "家里一周三练健身（初级）",
+    "planOfAllDays": [
+      {
+        "week": 1,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "上斜哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 上胸肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃仰卧屈臂上提",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "上斜哑铃飞鸟",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 上胸肌"
+          },
+          {
+            "type": 1,
+            "name": "单臂哑铃侧屈",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧腿举（直腿）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿哑铃屈臂伸（单臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃俯身臂屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          }
+        ]
+      },
+      { "week": 2, "actions": [] },
+      {
+        "week": 3,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃耸肩",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 斜方肌"
+          },
+          {
+            "type": 1,
+            "name": "侧卧支撑哑铃侧拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 冈下肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "垂直举腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧腿举（直腿）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃锤式弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃斜托弯举（斯科特弯举）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          }
+        ]
+      },
+      { "week": 4, "actions": [] },
+      {
+        "week": 5,
+        "actions": [
+          {
+            "type": 1,
+            "name": "俯身哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌后束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃推举（双臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "卷腹",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "单臂哑铃侧屈",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "深蹲器双腿半蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿哑铃提踵",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 小腿肌肉"
+          },
+          {
+            "type": 1,
+            "name": "单哑铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          }
+        ]
+      },
+      { "week": 6, "actions": [] },
+      { "week": 7, "actions": [] }
+    ],
+    "completeStatus": []
+  },
+  {
+    "name": "健身房一周三练健身（初级）",
+    "planOfAllDays": [
+      {
+        "week": 1,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "蝴蝶夹胸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "上斜哑铃飞鸟",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 上胸肌"
+          },
+          {
+            "type": 1,
+            "name": "单臂哑铃侧屈",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "罗马椅抬腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃俯身臂屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃颈后臂屈伸（双臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "拉力器屈臂下拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          }
+        ]
+      },
+      { "week": 2, "actions": [] },
+      {
+        "week": 3,
+        "actions": [
+          {
+            "type": 1,
+            "name": "引体向上(窄握)",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "引体向上(V型手柄)",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "背阔肌下拉（前拉）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "铃片坐姿转体",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "剪刀式仰卧起坐",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃集中弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃反手臂弯举（直杆）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃斜托弯举（斯科特弯举）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          }
+        ]
+      },
+      { "week": 4, "actions": [] },
+      {
+        "week": 5,
+        "actions": [
+          {
+            "type": 1,
+            "name": "俯身哑铃上拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌后束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "坐姿哑铃推举（双臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "单臂哑铃侧屈",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "罗马椅抬腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "深蹲器双腿半蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃弓步蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          }
+        ]
+      },
+      { "week": 6, "actions": [] },
+      { "week": 7, "actions": [] }
+    ],
+    "completeStatus": []
+  },
+  {
+    "name": "健身房一周三练健身（新手）",
+    "planOfAllDays": [
+      {
+        "week": 1,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "侧臂下拉(胸大肌)",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "单臂哑铃侧屈",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "罗马椅抬腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃俯身臂屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "仰姿负重反屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "拉力器屈臂下拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          }
+        ]
+      },
+      { "week": 2, "actions": [] },
+      {
+        "week": 3,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "单手哑铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "罗马椅抬腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧腿举（直腿）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃锤式弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃斜托弯举（斯科特弯举）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          }
+        ]
+      },
+      { "week": 4, "actions": [] },
+      {
+        "week": 5,
+        "actions": [
+          {
+            "type": 1,
+            "name": "俯身哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌后束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃推举（单臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "坐姿收腹下拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧腿举（直腿）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "深蹲器双腿半蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧腿举（双腿）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          }
+        ]
+      },
+      { "week": 6, "actions": [] },
+      { "week": 7, "actions": [] }
+    ],
+    "completeStatus": []
+  },
+  {
+    "name": "家里一周三练健身（新手）",
+    "planOfAllDays": [
+      {
+        "week": 1,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "上斜哑铃飞鸟",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 上胸肌"
+          },
+          {
+            "type": 1,
+            "name": "单臂哑铃侧屈",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧腿举（直腿）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿哑铃屈臂伸（单臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃俯身臂屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "仰姿负重反屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          }
+        ]
+      },
+      { "week": 2, "actions": [] },
+      {
+        "week": 3,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃耸肩",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 斜方肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "单手哑铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "单臂哑铃侧屈",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧腿举（直腿）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃集中弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃锤式弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          }
+        ]
+      },
+      { "week": 4, "actions": [] },
+      {
+        "week": 5,
+        "actions": [
+          {
+            "type": 1,
+            "name": "俯身哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌后束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃推举（双臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "单臂哑铃侧屈",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧腿举（直腿）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "深蹲器双腿半蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿哑铃提踵",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 小腿肌肉"
+          },
+          {
+            "type": 1,
+            "name": "单哑铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          }
+        ]
+      },
+      { "week": 6, "actions": [] },
+      { "week": 7, "actions": [] }
+    ],
+    "completeStatus": []
+  },
+  {
+    "name": "6周减脂增肌（1-2周）",
+    "planOfAllDays": [
+      {
+        "week": 1,
+        "actions": [
+          {
+            "type": 1,
+            "name": "俯身哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌后束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃直拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃前平举(双臂)",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "单哑铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃弓步蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "跑步",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "actions": [
+          {
+            "type": 1,
+            "name": "垂直举腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "卷腹",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "铃片坐姿转体",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "单臂哑铃侧屈",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃直腿硬拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 大腿后侧"
+          },
+          {
+            "type": 1,
+            "name": "跳绳",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      { "week": 3, "actions": [] },
+      {
+        "week": 4,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃耸肩",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 斜方肌"
+          },
+          {
+            "type": 1,
+            "name": "引体向上(宽握)",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃集中弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "铃片臂弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "跑步",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 5,
+        "actions": [
+          {
+            "type": 1,
+            "name": "仰卧哑铃飞鸟",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃仰卧屈臂上提",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿哑铃屈臂伸（单臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃俯身臂屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "跳绳",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      { "week": 6, "actions": [] },
+      { "week": 7, "actions": [] }
+    ],
+    "completeStatus": []
+  },
+  {
+    "name": "家里一周4练健身（初级）",
+    "planOfAllDays": [
+      {
+        "week": 1,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "上斜哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 上胸肌"
+          },
+          {
+            "type": 1,
+            "name": "下斜哑铃飞鸟",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 下胸肌"
+          },
+          {
+            "type": 1,
+            "name": "旋转上斜哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 上胸肌"
+          },
+          {
+            "type": 1,
+            "name": "俯身臂屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧臂屈伸（单手）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃颈后臂屈伸（双臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "凳上反屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          }
+        ]
+      },
+      { "week": 2, "actions": [] },
+      {
+        "week": 3,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃绕肩",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 斜方肌"
+          },
+          {
+            "type": 1,
+            "name": "侧卧支撑哑铃侧拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 冈下肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "单手哑铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "铃片坐姿转体",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧腿举（直腿）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃集中弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃锤式弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃斜托弯举（斯科特弯举）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃​正握腕弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 前臂肌群"
+          },
+          {
+            "type": 1,
+            "name": "正握卷重",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 前臂肌群"
+          },
+          {
+            "type": 1,
+            "name": "哑铃侧弓步",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 内收肌"
+          },
+          {
+            "type": 1,
+            "name": "拉力器髋关节内收",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 内收肌"
+          },
+          {
+            "type": 1,
+            "name": "单哑铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃弓步蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          }
+        ]
+      },
+      { "week": 5, "actions": [] },
+      {
+        "week": 6,
+        "actions": [
+          {
+            "type": 1,
+            "name": "俯身哑铃上拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌后束"
+          },
+          {
+            "type": 1,
+            "name": "侧斜哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃前平举(双臂)",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "阿诺德哑铃推举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃坐姿扭腰转体",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧腿举（曲腿）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          }
+        ]
+      },
+      { "week": 7, "actions": [] }
+    ],
+    "completeStatus": []
+  },
+  {
+    "name": "健身房一周4练健身（初级）",
+    "planOfAllDays": [
+      {
+        "week": 1,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "史密斯卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "蝴蝶夹胸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "直杆杠铃曲臂上提",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧臂屈伸（单手）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃颈后臂屈伸（双臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿拉力器臂屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "拉力器屈臂下拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          }
+        ]
+      },
+      { "week": 2, "actions": [] },
+      {
+        "week": 3,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃耸肩",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 斜方肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿手臂旋拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 冈下肌"
+          },
+          {
+            "type": 1,
+            "name": "单手哑铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "直臂下拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "单臂哑铃侧屈",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "罗马椅抬腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿收腹下拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃反手臂弯举（直杆）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "半蹲单臂弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "斜托杠铃弯举（牧师椅杠铃弯举）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃​正握腕弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 前臂肌群"
+          },
+          {
+            "type": 1,
+            "name": "杠铃正握腕弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 前臂肌群"
+          },
+          {
+            "type": 1,
+            "name": "深蹲器双腿半蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿腿弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 大腿后侧"
+          },
+          {
+            "type": 1,
+            "name": "坐姿哑铃提踵",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 小腿肌肉"
+          },
+          {
+            "type": 1,
+            "name": "哑铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "单哑铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "史密斯杠铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          }
+        ]
+      },
+      { "week": 5, "actions": [] },
+      {
+        "week": 6,
+        "actions": [
+          {
+            "type": 1,
+            "name": "俯身哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌后束"
+          },
+          {
+            "type": 1,
+            "name": "拉力器侧平拉(单臂)",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌后束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "拉力器上提（单臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "史密斯机推举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "铃片坐姿转体",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "双杠曲膝上举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          }
+        ]
+      },
+      { "week": 7, "actions": [] }
+    ],
+    "completeStatus": []
+  },
+  {
+    "name": "一周5练杠铃+哑铃健身",
+    "planOfAllDays": [
+      {
+        "week": 1,
+        "actions": [
+          {
+            "type": 1,
+            "name": "仰卧哑铃飞鸟",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "下斜哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 下胸肌"
+          },
+          {
+            "type": 1,
+            "name": "上斜哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 上胸肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "腹肌撕裂者X1",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿杠铃屈臂伸（靠椅）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "actions": [
+          {
+            "type": 1,
+            "name": "引体向上(宽握)",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "单手哑铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "卷腹",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "空中蹬车",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "屈腿硬拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 竖脊肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃交替弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃交替前举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "俯身哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌后束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "坐姿哑铃推举（双臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "阿诺德哑铃推举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "腹肌撕裂者X1",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "actions": [
+          {
+            "type": 1,
+            "name": "垂直举腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "卷腹",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧坐姿收腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃集中弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "窄距俯卧撑",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃交替弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃臂弯举（直杆）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "俯身臂屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "坐姿杠铃颈后臂屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          }
+        ]
+      },
+      {
+        "week": 5,
+        "actions": [
+          {
+            "type": 1,
+            "name": "腹肌撕裂者X1",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃站姿提踵",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 小腿肌肉"
+          },
+          {
+            "type": 1,
+            "name": "箭步蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "单哑铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "杠铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          }
+        ]
+      },
+      { "week": 6, "actions": [] },
+      { "week": 7, "actions": [] }
+    ],
+    "completeStatus": []
+  },
+  {
+    "name": "6周减脂增肌（5-6周）",
+    "planOfAllDays": [
+      {
+        "week": 1,
+        "actions": [
+          {
+            "type": 1,
+            "name": "仰卧哑铃飞鸟",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "上斜哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 上胸肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃颈后臂屈伸（双臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "凳上反屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "高强度间歇训练（HIIT）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "actions": [
+          {
+            "type": 1,
+            "name": "垂直举腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "卷腹",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "铃片坐姿转体",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹斜肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃直腿硬拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 大腿后侧"
+          },
+          {
+            "type": 1,
+            "name": "跑步",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃耸肩",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 斜方肌"
+          },
+          {
+            "type": 1,
+            "name": "引体向上(宽握)",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "铃片臂弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃锤式弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "高强度间歇训练（HIIT）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "actions": [
+          {
+            "type": 1,
+            "name": "俯身哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌后束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃直拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃前平举(双臂)",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "跑步",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 5,
+        "actions": [
+          {
+            "type": 1,
+            "name": "坐姿哑铃提踵",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 小腿肌肉"
+          },
+          {
+            "type": 1,
+            "name": "哑铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "单哑铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃弓步蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "高强度间歇训练（HIIT）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      { "week": 6, "actions": [] },
+      { "week": 7, "actions": [] }
+    ],
+    "completeStatus": []
+  },
+  {
+    "name": "6周减脂增肌（3-4周）",
+    "planOfAllDays": [
+      {
+        "week": 1,
+        "actions": [
+          {
+            "type": 1,
+            "name": "拉力器侧平拉(单臂)",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌后束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃直拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "拉力器上提（双臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "史密斯机推举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "跑步",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "actions": [
+          {
+            "type": 1,
+            "name": "垂直举腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "卷腹",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "罗马椅抬腿",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腰腹部 腹直肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃直腿硬拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 大腿后侧"
+          },
+          {
+            "type": 1,
+            "name": "高强度间歇训练（HIIT）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "actions": [
+          {
+            "type": 1,
+            "name": "哑铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "直臂下拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "蝴蝶夹胸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "上斜哑铃飞鸟",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 上胸肌"
+          },
+          {
+            "type": 1,
+            "name": "跑步",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "actions": [
+          {
+            "type": 1,
+            "name": "深蹲器双腿半蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃弓步蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "仰卧腿举（双腿）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "高强度间歇训练（HIIT）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 5,
+        "actions": [
+          {
+            "type": 1,
+            "name": "半蹲单臂弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃臂弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃俯身臂屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃颈后臂屈伸（双臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "跑步",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      { "week": 6, "actions": [] },
+      { "week": 7, "actions": [] }
+    ],
+    "completeStatus": []
+  },
+  {
+    "name": "一周5练增肌减脂健身（减脂）",
+    "planOfAllDays": [
+      {
+        "week": 1,
+        "actions": [
+          {
+            "type": 1,
+            "name": "仰卧哑铃飞鸟",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃卧推",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "胸部 胸大肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃俯身臂屈伸",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃颈后臂屈伸（双臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱三头肌"
+          },
+          {
+            "type": 1,
+            "name": "跑步",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "actions": [
+          {
+            "type": 1,
+            "name": "引体向上(背后)",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃划船",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "背部 背阔肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃锤式弯举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃斜托弯举（斯科特弯举）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "上肢 肱二头肌"
+          },
+          {
+            "type": 1,
+            "name": "跳绳",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "actions": [
+          {
+            "type": 1,
+            "name": "跑步",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          },
+          {
+            "type": 1,
+            "name": "跳绳",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 4,
+        "actions": [
+          {
+            "type": 1,
+            "name": "俯身哑铃上拉",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌后束"
+          },
+          {
+            "type": 1,
+            "name": "哑铃侧平举",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌中束"
+          },
+          {
+            "type": 1,
+            "name": "坐姿哑铃推举（双臂）",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "肩部 三角肌前束"
+          },
+          {
+            "type": 1,
+            "name": "跑步",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      {
+        "week": 5,
+        "actions": [
+          {
+            "type": 1,
+            "name": "深蹲器双腿半蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "单哑铃深蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "哑铃弓步蹲",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "腿部 股四头肌"
+          },
+          {
+            "type": 1,
+            "name": "跳绳",
+            "amount": { "group": "4", "count": "12" },
+            "muscle": "有氧 有氧运动"
+          }
+        ]
+      },
+      { "week": 6, "actions": [] },
+      { "week": 7, "actions": [] }
+    ],
+    "completeStatus": []
+  }
+]
